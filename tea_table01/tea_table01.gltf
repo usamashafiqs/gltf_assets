@@ -67,18 +67,18 @@
   "buffers": [
     {
       "byteLength": 11136,
-      "uri": "Tea Table01.bin"
+      "uri": "tea_table01.bin"
     }
   ],
   "images": [
     {
-      "uri": "Tea Table_baseColor.png"
+      "uri": "tea_table_baseColor.png"
     },
     {
-      "uri": "Tea Table_occlusionRoughnessMetallic.png"
+      "uri": "tea_table_occlusionRoughnessMetallic.png"
     },
     {
-      "uri": "Tea Table_normal.png"
+      "uri": "tea_table_normal.png"
     }
   ],
   "materials": [
